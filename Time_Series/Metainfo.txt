@@ -1,0 +1,20 @@
+Name of Quantlet: 'Ten_Sat_Time_Series_Tenure_PhD'
+
+Published in: 'Does Tenure make you love your Job?'
+
+Description: 'Shows a time series of the percentage of tenure positions for U.S. institutional organizations (universities, collages). 
+It also includes the amount of doctorate holders over time.'
+
+Keywords: 'tenure, PhD holders, time series'
+
+Author: 'Daniel Jacob'
+
+See also: ''
+
+Submitted:  ''
+
+Datafile: ''
+
+Input: 'time-series given in the code'
+
+Output:  'time series plot'
