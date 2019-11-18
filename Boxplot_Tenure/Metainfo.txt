@@ -1,0 +1,20 @@
+
+Name of Quantlet: 'Ten_Sat_Boxplot'
+
+Published in: 'Does Tenure make you love your Job'
+
+Description: 'This Boxplot plots the dependence between tenure status and the degree of satisfaction with intellectual challenge by different age groups. We also plot the arithmetic mean as a additional measurement. '
+
+Keywords: 'correlation, tenure, age group, satisfaction, boxplot'
+
+Author: 'Daniel Jacob'
+
+See also: ''
+
+Submitted:  ''
+
+Datafile: ''
+
+Input: 'dataset'
+
+Output:  'multiple boxplots in one graph'
